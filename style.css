@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color:antiquewhite;
+  color:navy;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
